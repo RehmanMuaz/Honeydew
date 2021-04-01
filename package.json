@@ -1,0 +1,24 @@
+{
+	"name": "nodejs",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"type": "module",
+	"scripts": {
+		"dev": "nodemon server/index.js -w server"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/TheFakeNinja/ExpressJSTest1.git"
+	},
+	"author": "Muaz Rehman",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/TheFakeNinja/ExpressJSTest1/issues"
+	},
+	"homepage": "https://github.com/TheFakeNinja/ExpressJSTest1#readme",
+	"dependencies": {
+		"express": "^4.17.1",
+		"mysql": "^2.18.1"
+	}
+}
