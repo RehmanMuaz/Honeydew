@@ -7,7 +7,7 @@
 ***
 ***
 *** To avoid retyping too much info. Do a search and replace for the following:
-*** FakeNinja, ExpressJSTest1, @MuazR5, muaz_r5@hotmail.com, ExpressJS Backend, A backend using ExpressJS. Connected to MySQL server using Sequelize.
+*** TheFakeNinja, ExpressJSTest1, @MuazR5, muaz_r5@hotmail.com, ExpressJS Backend, A backend using ExpressJS. Connected to MySQL server using Sequelize.
 -->
 
 <!-- PROJECT SHIELDS -->
@@ -29,7 +29,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/FakeNinja/ExpressJSTest1">
+  <a href="https://github.com/TheFakeNinja/ExpressJSTest1">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -38,14 +38,14 @@
   <p align="center">
     An experiment with ExpressJS.
     <br />
-    <a href="https://github.com/FakeNinja/ExpressJSTest1"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/TheFakeNinja/ExpressJSTest1"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/FakeNinja/ExpressJSTest1">View Demo</a>
+    <a href="https://github.com/TheFakeNinja/ExpressJSTest1">View Demo</a>
     ·
-    <a href="https://github.com/FakeNinja/ExpressJSTest1/issues">Report Bug</a>
+    <a href="https://github.com/TheFakeNinja/ExpressJSTest1/issues">Report Bug</a>
     ·
-    <a href="https://github.com/FakeNinja/ExpressJSTest1/issues">Request Feature</a>
+    <a href="https://github.com/TheFakeNinja/ExpressJSTest1/issues">Request Feature</a>
   </p>
 </p>
 
@@ -83,7 +83,7 @@
 
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`FakeNinja`, `ExpressJSTest1`, `@MuazR5`, `muaz_r5@hotmail.com`, `ExpressJS Backend`, `A backend using ExpressJS. Connected to MySQL server using Sequelize.`
+`TheFakeNinja`, `ExpressJSTest1`, `@MuazR5`, `muaz_r5@hotmail.com`, `ExpressJS Backend`, `A backend using ExpressJS. Connected to MySQL server using Sequelize.`
 
 ### Built With
 
@@ -110,7 +110,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
     ```sh
-    git clone https://github.com/FakeNinja/ExpressJSTest1.git
+    git clone https://github.com/TheFakeNinja/ExpressJSTest1.git
     ```
 2. Install NPM packages
     ```sh
@@ -132,7 +132,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 ## Roadmap
 
-See the [open issues](https://github.com/FakeNinja/ExpressJSTest1/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/TheFakeNinja/ExpressJSTest1/issues) for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 
@@ -158,7 +158,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Your Name - [@@MuazR5](https://twitter.com/@MuazR5) - muaz_r5@hotmail.com
 
-Project Link: [https://github.com/FakeNinja/ExpressJSTest1](https://github.com/FakeNinja/ExpressJSTest1)
+Project Link: [https://github.com/TheFakeNinja/ExpressJSTest1](https://github.com/TheFakeNinja/ExpressJSTest1)
 
 <!-- ACKNOWLEDGEMENTS -->
 
@@ -171,15 +171,15 @@ Project Link: [https://github.com/FakeNinja/ExpressJSTest1](https://github.com/F
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/FakeNinja/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/FakeNinja/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/FakeNinja/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/FakeNinja/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/FakeNinja/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/FakeNinja/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/FakeNinja/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/FakeNinja/repo/issues
-[license-shield]: https://img.shields.io/github/license/FakeNinja/repo.svg?style=for-the-badge
-[license-url]: https://github.com/FakeNinja/repo/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/TheFakeNinja/ExpressJSTest1.svg?style=for-the-badge
+[contributors-url]: https://github.com/TheFakeNinja/ExpressJSTest1/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/TheFakeNinja/ExpressJSTest1.svg?style=for-the-badge
+[forks-url]: https://github.com/TheFakeNinja/ExpressJSTest1/network/members
+[stars-shield]: https://img.shields.io/github/stars/TheFakeNinja/ExpressJSTest1.svg?style=for-the-badge
+[stars-url]: https://github.com/TheFakeNinja/ExpressJSTest1/stargazers
+[issues-shield]: https://img.shields.io/github/issues/TheFakeNinja/ExpressJSTest1.svg?style=for-the-badge
+[issues-url]: https://github.com/TheFakeNinja/ExpressJSTest1/issues
+[license-shield]: https://img.shields.io/github/license/TheFakeNinja/ExpressJSTest1.svg?style=for-the-badge
+[license-url]: https://github.com/TheFakeNinja/ExpressJSTest1/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/FakeNinja
+[linkedin-url]: https://linkedin.com/in/TheFakeNinja
