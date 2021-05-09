@@ -5,7 +5,7 @@
 	"main": "index.ts",
 	"scripts": {
 		"dev": "nodemon index.ts -w server",
-		"gen-models": "sequelize-auto -h localhost -d shop -u root -x password -p 3306  --dialect mysql -o './models'"
+		"gen-models": "sequelize-auto -h localhost -d shop -u root -x password -p 3306 --dialect mysql -l ts -o './models'"
 	},
 	"repository": {
 		"type": "git",
@@ -23,6 +23,9 @@
 		"joi": "^17.4.0",
 		"mysql": "^2.18.1",
 		"mysql2": "^2.2.5",
+		"passport": "^0.4.1",
+		"passport-google-oauth": "^2.0.0",
+		"passport-google-oauth20": "^2.0.0",
 		"sequelize": "^6.6.2",
 		"sequelize-auto": "^0.8.2"
 	},
@@ -30,6 +33,8 @@
 		"@types/express": "^4.17.11",
 		"@types/mysql": "^2.15.18",
 		"@types/sequelize": "^4.28.9",
-		"typescript": "^4.2.3"
+		"nodemon": "^2.0.7",
+		"ts-node": "^9.1.1",
+		"typescript": "^4.2.4"
 	}
 }

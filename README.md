@@ -1,24 +1,3 @@
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Thanks again! Now go create something AMAZING! :D
-***
-***
-***
-*** To avoid retyping too much info. Do a search and replace for the following:
-*** TheFakeNinja, ExpressJSTest1, @MuazR5, muaz_r5@hotmail.com, ExpressJS Backend, A backend using ExpressJS. Connected to MySQL server using Sequelize.
--->
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -81,10 +60,6 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`TheFakeNinja`, `ExpressJSTest1`, `@MuazR5`, `muaz_r5@hotmail.com`, `ExpressJS Backend`, `A backend using ExpressJS. Connected to MySQL server using Sequelize.`
-
 ### Built With
 
 -   []()
@@ -105,16 +80,25 @@ This is an example of how to list things you need to use the software and how to
     ```sh
     npm install npm@latest -g
     ```
-
+-   nodemon
+    ```sh
+    npm install --save-dev nodemon
+    ```
+-   ts-node
+    ```sh
+    npm install -D typescript
+    npm install -D ts-node
+    ```
+    passportJS
+    ```sh
+    npm install passport
+    npm install passport-google-oauth20
+    ```
 ### Installation
 
 1. Clone the repo
     ```sh
     git clone https://github.com/TheFakeNinja/ExpressJSTest1.git
-    ```
-2. Install NPM packages
-    ```sh
-    npm install
     ```
 
 <!-- USAGE EXAMPLES -->
