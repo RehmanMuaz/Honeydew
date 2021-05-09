@@ -8,23 +8,23 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/TheFakeNinja/ExpressJSTest1">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/RehmanMuaz/Honeydew">
+    <img src="images/main-logo.svg" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">ExpressJS Backend</h3>
+  <h3 align="center">Honeydew</h3>
 
   <p align="center">
-    An experiment with ExpressJS.
+    An Ecommerce Management backend using ExpressJS and MySQL.
     <br />
-    <a href="https://github.com/TheFakeNinja/ExpressJSTest1"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/RehmanMuaz/Honeydew"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/TheFakeNinja/ExpressJSTest1">View Demo</a>
+    <a href="https://github.com/RehmanMuaz/Honeydew">View Demo</a>
     ·
-    <a href="https://github.com/TheFakeNinja/ExpressJSTest1/issues">Report Bug</a>
+    <a href="https://github.com/RehmanMuaz/Honeydew/issues">Report Bug</a>
     ·
-    <a href="https://github.com/TheFakeNinja/ExpressJSTest1/issues">Request Feature</a>
+    <a href="https://github.com/RehmanMuaz/Honeydew/issues">Request Feature</a>
   </p>
 </p>
 
@@ -62,9 +62,9 @@
 
 ### Built With
 
--   []()
--   []()
--   []()
+-   [ExpressJS](https://expressjs.com/)
+-   [MySQL](https://www.mysql.com/)
+-   [Sequelize](https://sequelize.org/)
 
 <!-- GETTING STARTED -->
 
@@ -98,7 +98,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
     ```sh
-    git clone https://github.com/TheFakeNinja/ExpressJSTest1.git
+    git clone https://github.com/RehmanMuaz/Honeydew.git
     ```
 
 <!-- USAGE EXAMPLES -->
@@ -116,7 +116,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 ## Roadmap
 
-See the [open issues](https://github.com/TheFakeNinja/ExpressJSTest1/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/RehmanMuaz/Honeydew/issues) for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 
@@ -140,9 +140,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [@@MuazR5](https://twitter.com/@MuazR5) - muaz_r5@hotmail.com
+Muaz Rehman - [@@MuazR5](https://twitter.com/@MuazR5) - myself@muaz.ca
 
-Project Link: [https://github.com/TheFakeNinja/ExpressJSTest1](https://github.com/TheFakeNinja/ExpressJSTest1)
+Project Link: [https://github.com/RehmanMuaz/Honeydew](https://github.com/RehmanMuaz/Honeydew)
 
 <!-- ACKNOWLEDGEMENTS -->
 
@@ -155,15 +155,15 @@ Project Link: [https://github.com/TheFakeNinja/ExpressJSTest1](https://github.co
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/TheFakeNinja/ExpressJSTest1.svg?style=for-the-badge
-[contributors-url]: https://github.com/TheFakeNinja/ExpressJSTest1/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/TheFakeNinja/ExpressJSTest1.svg?style=for-the-badge
-[forks-url]: https://github.com/TheFakeNinja/ExpressJSTest1/network/members
-[stars-shield]: https://img.shields.io/github/stars/TheFakeNinja/ExpressJSTest1.svg?style=for-the-badge
-[stars-url]: https://github.com/TheFakeNinja/ExpressJSTest1/stargazers
-[issues-shield]: https://img.shields.io/github/issues/TheFakeNinja/ExpressJSTest1.svg?style=for-the-badge
-[issues-url]: https://github.com/TheFakeNinja/ExpressJSTest1/issues
-[license-shield]: https://img.shields.io/github/license/TheFakeNinja/ExpressJSTest1.svg?style=for-the-badge
-[license-url]: https://github.com/TheFakeNinja/ExpressJSTest1/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/RehmanMuaz/Honeydew.svg?style=for-the-badge
+[contributors-url]: https://github.com/RehmanMuaz/Honeydew/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/RehmanMuaz/Honeydew.svg?style=for-the-badge
+[forks-url]: https://github.com/RehmanMuaz/Honeydew/network/members
+[stars-shield]: https://img.shields.io/github/stars/RehmanMuaz/Honeydew.svg?style=for-the-badge
+[stars-url]: https://github.com/RehmanMuaz/Honeydew/stargazers
+[issues-shield]: https://img.shields.io/github/issues/RehmanMuaz/Honeydew.svg?style=for-the-badge
+[issues-url]: https://github.com/RehmanMuaz/Honeydew/issues
+[license-shield]: https://img.shields.io/github/license/RehmanMuaz/Honeydew.svg?style=for-the-badge
+[license-url]: https://github.com/RehmanMuaz/Honeydew/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/TheFakeNinja
+[linkedin-url]: https://www.linkedin.com/in/muazrehman/
